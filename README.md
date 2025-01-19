@@ -5,7 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viveksinku" alt="viveksinku" /></a> </p>
 
-- 📫 How to reach me **vs.wk28@gmail.com**
+-  How to reach me:
+-  📧: **vs.wk28@gmail.com**
+-  ![image](https://github.com/user-attachments/assets/57a79d63-982a-44e1-a90b-06ea0d9f2cbc):**https://www.linkedin.com/in/vivekanand-sinku/**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
