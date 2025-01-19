@@ -7,7 +7,8 @@
 
 -  How to reach me:
 -  📧: **vs.wk28@gmail.com**
--  ![image](https://github.com/user-attachments/assets/57a79d63-982a-44e1-a90b-06ea0d9f2cbc):**https://www.linkedin.com/in/vivekanand-sinku/**
+-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivekanand sinku" height="20" width="30" />:**https://www.linkedin.com/in/vivekanand-sinku/**
+
 
 
 <h3 align="left">Connect with me:</h3>
