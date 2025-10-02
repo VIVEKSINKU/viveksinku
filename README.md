@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="www.linkedin.com/in/vivekanand-sinku" target="_blank">
+  <a href="https://www.linkedin.com/in/vivekanand-sinku" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://mail.google.com/mail/?view=cm&to=vs.wk28@gmail.com" target="_blank">
